@@ -1,0 +1,152 @@
+<sr>
+	<records>
+		<dob>DOB:- 24 April 1973</dob>
+		<test>TEST STATISTICS</test>
+		<runs>Runs:- 15921</runs>
+		<avg>Average:- 53.78</avg>
+		<ms>100/50:- 51/68</ms>
+		<hs>HS:- 248</hs>
+		<wks>Wickets:- 46</wks>
+		<odi>ODI STATISTICS</odi>
+		<oruns>Runs:- 18426</oruns>
+		<oavg>Average:- 44.83</oavg>
+		<oms>100/50:- 49/96</oms>
+		<ohs>HS:- 200</ohs>
+		<owks>Wickets:- 154</owks>
+	</records>
+
+
+	<records>
+		<dob>DOB:- 5 November 1988</dob>
+		<test>TEST STATISTICS</test>
+		<runs>Runs:- 5554</runs>
+		<avg>Average:- 53.40</avg>
+		<ms>100/50:- 21/16</ms>
+		<hs>HS:- 243</hs>
+		<wks>Wickets:- 0</wks>
+		<odi>ODI STATISTICS</odi>
+		<oruns>Runs:- 9588</oruns>
+		<oavg>Average:- 58.10</oavg>
+		<oms>100/50:- 35/46</oms>
+		<ohs>HS:- 183</ohs>
+		<owks>Wickets:- 4</owks>
+		<t20>T20 STATISTICS</t20>
+		<truns>Runs:- 1983</truns>
+		<tavg>Average:- 50.84</tavg>
+		<tms>100/50:- 0/18</tms>
+		<ths>HS:- 90</ths>
+		<twks>Wickets:- 4</twks>
+	</records>
+
+
+	<records>
+		<dob>DOB:- 7 July 1981</dob>
+		<test>TEST STATISTICS</test>
+		<runs>Runs:- 4876</runs>
+		<avg>Average:- 38.09</avg>
+		<ms>100/50:- 6/33</ms>
+		<hs>HS:- 224</hs>
+		<wks>Wickets:- 0</wks>
+		<odi>ODI STATISTICS</odi>
+		<oruns>Runs:- 9967</oruns>
+		<oavg>Average:- 51.37</oavg>
+		<oms>100/50:- 10/67</oms>
+		<ohs>HS:- 183*</ohs>
+		<owks>Wickets:- 1</owks>
+		<t20>T20 STATISTICS</t20>
+		<truns>Runs:- 1444</truns>
+		<tavg>Average:- 37.02</tavg>
+		<tms>100/50:- 0/2</tms>
+		<ths>HS:- 56</ths>
+		<twks>Wickets:- 0</twks>
+	</records>
+
+
+	<records>
+		<dob>DOB:- 6 January 1959</dob>
+		<test>TEST STATISTICS</test>
+		<runs>Runs:- 5248</runs>
+		<avg>Average:- 31.05</avg>
+		<ms>100/50:- 8/27</ms>
+		<hs>HS:- 163</hs>
+		<wks>Wickets:- 434</wks>
+		<odi>ODI STATISTICS</odi>
+		<oruns>Runs:- 3783</oruns>
+		<oavg>Average:- 23.79</oavg>
+		<oms>100/50:- 1/14</oms>
+		<ohs>HS:- 175*</ohs>
+		<owks>Wickets:- 253</owks>
+	</records>
+
+
+	<records>
+		<dob>DOB:- 17 October 1970</dob>
+		<test>TEST STATISTICS</test>
+		<runs>Runs:- 2506</runs>
+		<ms>100/50:- 1/5</ms>
+		<hs>HS:- 110</hs>
+		<wks>Wickets:- 619</wks>
+		<avg>Average:- 29.65</avg>
+		<odi>ODI STATISTICS</odi>
+		<oruns>Runs:- 938</oruns>
+		<oms>100/50:- 0/0</oms>
+		<ohs>HS:- 26</ohs>
+		<owks>Wickets:- 337</owks>
+		<oavg>Average:- 30.89</oavg>
+	</records>
+
+
+	<records>
+		<dob>DOB:- 7 October 1978</dob>
+		<test>TEST STATISTICS</test>
+		<runs>Runs:- 1230</runs>
+		
+		<ms>100/50:- 0/3</ms>
+		<hs>HS:- 75</hs>
+		<wks>Wickets:- 311</wks>
+		<avg>Average:- 32.95</avg>
+		<odi>ODI STATISTICS</odi>
+		<oruns>Runs:- 792</oruns>
+		
+		<oms>100/50:- 0/0</oms>
+		<ohs>HS:- 34</ohs>
+		<owks>Wickets:- 282</owks>
+		<oavg>Average:- 29.44 </oavg>
+		<t20>T20 STATISTICS</t20>
+		<truns>Runs:- 13</truns>
+		
+		<tms>100/50:- 0/0</tms>
+		<ths>HS:- 9</ths>
+		<twks>Wickets:- 17</twks>
+		<tavg>Average:- 26.35</tavg>
+	</records>
+
+
+	<records>
+		<rank>Rank-6</rank>
+		<match>Matches-811</match>
+		<won>Won-383</won>
+		<lost>Lost-218</lost>
+		<tie>Draw/Tie-208/2</tie>
+	</records>
+
+	<records>
+		<rank>Rank-8</rank>
+		<match>Matches-911</match>
+		<won>Won-556</won>
+		<lost>Lost-312</lost>
+		<tie>Tie/NR-1/34</tie>
+	</records>
+
+
+	<records>
+		<rank>Rank-8</rank>
+		<match>Matches-100</match>
+		<won>Won-53</won>
+		<lost>Lost-44</lost>
+		<tie>Tie/NR-2/1</tie>
+	</records>
+
+
+
+</sr>
